@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="AtaXan, AI Project Manager. I help small service businesses put AI to work. Audit, Build, Run.">
+  <img src="assets/banner.png" width="100%" alt="AtaXan, AI Project Manager. I help businesses of every size put AI to work. Audit, Build, Run.">
 </p>
 
 ## Hi, I'm AtaXan
 
-Small service businesses lose hours every week to the same work: booking appointments, chasing follow-ups, answering the same questions and copying data from one tool to another. I find where those hours go, build the AI and automation that takes that work over, and keep it running, so your team can spend its time on clients.
+Every business, from a solo founder to a large company, loses hours each week to repetitive work: chasing follow-ups, answering the same questions, copying data from one tool to another and putting reports together. I find where those hours go, build the AI and automation that takes that work over, and keep it running, so your people can focus on the work only they can do.
 
 <p align="center">
   <img src="assets/process.png" width="100%" alt="How I work: 01 Audit, find the hours. 02 Build, ship what saves them. 03 Run, keep it running.">
@@ -23,7 +23,7 @@ Small service businesses lose hours every week to the same work: booking appoint
 
 ## Who I work with
 
-Clinics, consultants, real estate and law offices, agencies, online stores, creators and coaches: small teams where every hour counts.
+Businesses of every size, from solo founders to large companies, in any industry where people repeat the same work every week: clinics, consultancies, real estate and law firms, agencies, online stores, SaaS companies, creators and coaches.
 
 ## Let's talk
 
